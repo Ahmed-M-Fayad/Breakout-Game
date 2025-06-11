@@ -1,13 +1,13 @@
-# Breakout Elite
-
+# Breakout Elite - Stanford Code in Place 2025
 A modern, feature-rich implementation of the classic Breakout game with enhanced graphics, particle effects, power-ups, and smooth gameplay.
 
-## Project Structure
+**Final Project Submission for Stanford Code in Place 2025**  
+*Submitted by: Ahmed M. Fayad*
 
+## Project Structure
 The project has been organized into multiple modules for better maintainability and code organization:
 
 ### Core Files
-
 - **`main.py`** - Main entry point and game orchestration
 - **`config.py`** - All game configuration constants and settings
 - **`game_objects.py`** - Game object classes (Particle, PowerUp, GameState)
@@ -39,7 +39,6 @@ The project has been organized into multiple modules for better maintainability 
 - **Win/Loss Conditions**: Clear all bricks to win, lose ball to lose turn
 
 ## How to Run
-
 1. Ensure you have the `graphics.py` library available
 2. Run the main game file:
    ```bash
@@ -83,13 +82,15 @@ The project has been organized into multiple modules for better maintainability 
 3. Update physics parameters in `physics.py`
 
 ## Dependencies
-
 - `graphics.py` - Graphics library for canvas operations
 - Standard Python libraries: `time`, `random`, `math`
 
 ## Game Controls
-
 - **Mouse**: Control paddle position
 - **Click**: Start game and advance through screens
+
+---
+
+*This project represents the culmination of my learning journey in Stanford Code in Place 2025, incorporating concepts from Karel programming, Python fundamentals, control flow, graphics, data structures, and advanced programming techniques learned throughout the course.*
 
 Enjoy playing Breakout Elite!
